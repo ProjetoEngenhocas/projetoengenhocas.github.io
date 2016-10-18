@@ -37,7 +37,7 @@ main:
     url: /sobre/
 
   - title: "Gringolalia"
-    url: http://bretonio.gitlab.io/gringolalia/sobre
+    url: http://bretonio.gitlab.io/gringolalia/page/	sobre
 
   - title: "Never Meaning to Sendmail"
     url: http://bretonio.gitlab.io/echolalia/about
@@ -47,4 +47,3 @@ main:
 
   - title: "Avenida Marginal (em construção)"
     url: http://minadeletras.surge.sh/
-

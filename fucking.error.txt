@@ -1,0 +1,9 @@
+Configuration file: /home/bretonio/Jekyll-Projects/projetoengenhocas.github.io/_config.yml
+            Source: /home/bretonio/Jekyll-Projects/projetoengenhocas.github.io
+       Destination: /home/bretonio/Jekyll-Projects/projetoengenhocas.github.io/_site
+ Incremental build: disabled. Enable with --incremental
+      Generating... 
+[33m   GitHub Metadata: No GitHub API authentication could be found. Some fields may be missing or have incorrect data.[0m
+[31m   GitHub Metadata: GET https://api.github.com/repos/ProjetoEngenhocas/projetoengenhocas.github.io.git/pages: 404 - Not Found // See: https://developer.github.com/v3[0m
+                    done in 10.915 seconds.
+ Auto-regeneration: disabled. Use --watch to enable.

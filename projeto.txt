@@ -1,0 +1,9 @@
+Configuration file: /home/bretonio/Jekyll-Projects/sambodia-viable/_config.yml
+            Source: /home/bretonio/Jekyll-Projects/sambodia-viable
+       Destination: /home/bretonio/Jekyll-Projects/sambodia-viable/_site
+ Incremental build: disabled. Enable with --incremental
+      Generating... 
+[33m   GitHub Metadata: No GitHub API authentication could be found. Some fields may be missing or have incorrect data.[0m
+[31m   GitHub Metadata: GET https://api.github.com/repos/ProjetoEngenhocas/projetoengenhocas.github.io/pages: 404 - Not Found // See: https://developer.github.com/v3 [0m
+                    done in 10.382 seconds.
+ Auto-regeneration: disabled. Use --watch to enable.

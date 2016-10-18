@@ -11,9 +11,9 @@ title                    : "Engenhocas & Gambiarras"
 title_separator          : " | "
 name                     : "Colin Brayton"
 description              : "Tudo sobre desenvolvimento pra rede mundial de máquinas infernais"
-url                      "http://projetoengenhocas.github.io" # the base hostname & protocol for your site e.g. "https://gambiarras.surge.sh"
+url                      : #"https://projetoengenhocas.github.io" # the base hostname & protocol for your site e.g. "https://gambiarras.surge.sh"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : "https://github.com/ProjetoEngenhocas/projetoengenhocas.github.io"
+repository               : # "ProjetoEngenhocas/projetoengenhocas.github.io.git"
 teaser                   : # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 # breadcrumbs            : true # true, false (default)
 words_per_minute         : 200
