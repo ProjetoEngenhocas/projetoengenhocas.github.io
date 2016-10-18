@@ -1,7 +1,50 @@
 # main links links
-main:
-  - title: "Sample Navigation Link"
-    url: https://mmistakes.github.io/minimal-mistakes/docs/navigation/
+#  main:
+#  - title: "Início"
+#    url: http://gambiarras.surge.sh
+# - title: "Blogagens"
+#   url: /year-archive/
+# - title: "Etiquetas"
+#   url: /tags/
+# - title: "Projetos"
+#   url: projetos/projetos
+# - title: "Recursos"
+#   url: /recursos/recursos
+# - title: "Sobre Nós"
+#   url: /sobre/
+# - title: "Contato"
+#   url: https://bretonio.gitlab.io/echolalia
+# - title: "Never Meaning to Sendmail"
+#   url: https://bretonio.gitlab.io/echolalia
+# - title: "De Cipheris Patentibus"
+#   url: https://bretonio.gitlab.io/echolalia
+# - title: "Mina de Letras"
+#   url: https://minadeletras.wordpress.com
+# - title: "Avenida Marginal (em construção)"
+#   url: http://minadeletras.surge.sh/
 
-  - title: "Sample Navigation Link 2"
-    url: /
+main:
+  - title: "Início"
+    url: /inicio/
+
+  - title: "Projetos"
+    url: /projetos/
+
+  - title: "Recursos"
+    url: /recursos/
+
+  - title: "Sobre Nós"
+    url: /sobre/
+
+  - title: "Gringolalia"
+    url: http://bretonio.gitlab.io/gringolalia/sobre
+
+  - title: "Never Meaning to Sendmail"
+    url: http://bretonio.gitlab.io/echolalia/about
+
+  - title: "Mina de Letras"
+    url: http://minadeletras.wordpress.com
+
+  - title: "Avenida Marginal (em construção)"
+    url: http://minadeletras.surge.sh/
+

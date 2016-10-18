@@ -1,0 +1,11 @@
+Configuration file: /home/bretonio/Jekyll-Projects/SambodianasLLC.github.io/_config.yml
+
+Source: /home/bretonio/Jekyll-Projects/SambodianasLLC.github.io
+
+Destination: /home/bretonio/Jekyll-Projects/SambodianasLLC.github.io/_site
+
+Incremental build: disabled. Enable with --incremental
+
+      Generating... 
+
+jekyll 3.2.1 | Error:  (/home/bretonio/Jekyll-Projects/SambodianasLLC.github.io/_data/navigation.yml): did not find expected key while parsing a block mapping at line 3 column 1

@@ -7,15 +7,15 @@
 
 # Site Settings
 locale                   : "en"
-title                    : "Site Title"
-title_separator          : "-"
-name                     : "Your Name"
-description              : "An amazing website."
-url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+title                    : "Engenhocas & Gambiarras"
+title_separator          : " | "
+name                     : "Colin Brayton"
+description              : "Tudo sobre desenvolvimento pra rede mundial de máquinas infernais"
+url                      "http://projetoengenhocas.github.io" # the base hostname & protocol for your site e.g. "https://gambiarras.surge.sh"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+repository               : "https://github.com/ProjetoEngenhocas/projetoengenhocas.github.io"
 teaser                   : # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
-# breadcrumbs            : false # true, false (default)
+# breadcrumbs            : true # true, false (default)
 words_per_minute         : 200
 comments:
   provider               : # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "custom"
@@ -55,9 +55,9 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               :
+  username               : "ColinBrayton"
 facebook:
-  username               :
+  username               : "braytonio"
   app_id                 :
   publisher              :
 og_image                 : # Open Graph/Twitter default site image
@@ -74,33 +74,59 @@ analytics:
   google:
     tracking_id          :
 
+# Default Post & Page Front Matter
+defaults:
+  # _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      comments: true
+      share: true
+      related: true
+      excerpt: ""
+
+# YAML front matter for _pages
+defaults:
+  # _pages
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      author_profile: true
+
+include: ["_pages"]
 
 # Site Author
 author:
-  name             : "Your Name"
-  avatar           : "bio-photo.jpg"
-  bio              : "I am an amazing person."
-  location         : "Somewhere"
-  email            :
-  uri              :
+  name             : "Colin Brayton"
+  avatar           : "https://braytonio.github.io/img/catharcross.png"
+  bio              : "Em tempos de guerra urubu é frango"
+  location         : "São Paulo, Brasil"
+  email            : "gringolalia@gmail.com"
+  uri              : "http://Braytonio.github.io/aboutme"
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
-  facebook         :
+  facebook         : "braytonio"
   foursquare       :
-  github           :
+  github           : "gringolalia"
   google_plus      :
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         :
+  linkedin         : "bretonio"
   pinterest        :
   soundcloud       :
-  stackoverflow    : # "123456/username" (the last part of your profile url, e.g. http://stackoverflow.com/users/123456/username)
+  stackoverflow    : # "6753247/colin-brayton"
   steam            :
   tumblr           :
-  twitter          :
+  twitter          : "ColinBrayton"
   vine             :
   weibo            :
   xing             :
